@@ -63,7 +63,7 @@ let story = [
     'speaking English',
     'hiding in a closet',
     'paying bills',
-    'hunting down ghoats',
+    'hunting down goats',
     'owning a coffee shop',
     'being the richest person in the world',
     'hacking',
@@ -82,7 +82,7 @@ let twist = [
     'you are late for your meeting',
     'you own a tank',
     'your dog helps you',
-    'you cant take demage',
+    'you cant take damage',
     'you can only attack using magic',
     'I am already Tracer',
 ]
