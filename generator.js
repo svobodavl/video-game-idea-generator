@@ -37,7 +37,6 @@ let environment = [
     'in a boathouse',
     'on a beach',
     'on a bridge',
-
 ]
 
 let story = [
@@ -67,6 +66,10 @@ let story = [
     'owning a coffee shop',
     'being the richest person in the world',
     'hacking',
+    'having great ideas for a website',
+    'sleeping',
+    'not having enough sleep',
+    'AI taking over the world',
 ]
 
 let twist = [
@@ -85,6 +88,11 @@ let twist = [
     'you cant take damage',
     'you can only attack using magic',
     'I am already Tracer',
+    'your brother thinks your ideas are trash',
+    'you cant say the phrase "Im in"',
+    'you are the only one who has the cure',
+    'cups of coffee harm you',
+    'your free trial has ended',
 ]
 
 
